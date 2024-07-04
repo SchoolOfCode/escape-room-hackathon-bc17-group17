@@ -9,7 +9,7 @@ Musk has been ousted as the CEO of MarsX by his own company’s board for quote:
 
 Musk is pushed over the edge and in a fit of diabolical genius plots his revenge...
 
-The next resupply mission to the MarsX colony is not only filled with much-needed provisions but with a sinister agent of Musk’s devise.
+The next resupply mission to the MarsX colony is not only filled with much-needed provisions but with a sinister stowaway of Musk’s devise.
 
 Enter “ZombElon Musk!”
 
