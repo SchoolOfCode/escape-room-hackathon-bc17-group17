@@ -47,3 +47,47 @@ MVP 2: MVP 1 + Interactive Puzzle (For Puzzle, generate with ChatGPT)
 MVP 3: MVP 2 + Outro Success Image
 
 
+
+
+
+
+Milestone 1: Complete Introduction scene
+- Issues 1: background image of first scene
+
+- Issues 2: A story to be implemented
+
+- Issue 3: Background audio
+
+- Issue 4: Player needs to be given instruction, player needs to be aware 5 minute timer will start
+
+- Issue 5: Either the scene changes automatically or through a click
+
+
+Milstone 2: Set up the bedroom scene
+- Issue 1: set up a background, and start countdown timer, add scratcing audio
+
+- Issue 2: place chart sprite
+
+- Issue 3: Place door sprite
+
+- Issues 4: place radio sprite
+
+Milestone 3: Add interactible sprite features
+- Issue 1: Implement chart sprite ineraction
+Done when a zoomed in chart appears
+Adn it gives the correct clue to the player 
+
+- Issue 2: Place door sprite
+Done when the correct code is accepted
+
+- Issues 3: place radio sprite
+Done when correct audito plays with the correct code
+
+Milestone 4: outros/ conculsions:
+- Issue 1: Timer runs out outro
+Background with gameover text
+Maybe audio of screaming
+
+- Issue 2: Escape room completed outro
+a background with success text
+mayeb celebratory audio
